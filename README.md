@@ -2,6 +2,10 @@
 
 AUTOcyn is a project I have wanted to work on for a while now. I have big plans for this project, so lets take a look at them.
 
+![image](https://user-images.githubusercontent.com/11879769/33630357-4ca57264-d9c4-11e7-987d-0e9662e7399c.png)
+![image](https://user-images.githubusercontent.com/11879769/33630365-51d7e852-d9c4-11e7-9cbf-f14928d3747c.png)
+![image](https://user-images.githubusercontent.com/11879769/33630425-8e186332-d9c4-11e7-8f37-8c22ced934fd.png)
+
 Below is a list of all the planned features for AUTOcyn. This list might not be complete, but should give you an idea of what you will be able to do with AUTOcyn.
 You can also open up `/mockplus/project-mockup.mp` in MockPlus to get a feel for what the program will eventually look like.
 * Image Search/Click
